@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <h1>My Navbar</h1>
+        <h1>Navbar should stay here</h1>
         {children}
       </body>
     </html>
